@@ -1,1 +1,2 @@
 Main branch file2
+modified file 2 in main branch 2nd time after file 1
